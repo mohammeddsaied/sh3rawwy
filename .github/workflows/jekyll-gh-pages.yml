@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Mohamed Saied Abdelwahab</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="profile">
+                <img src="profile.jpg" alt="Profile Picture" class="profile-picture">
+                <h1>Mohamed Saied Abdelwahab</h1>
+                <p>Network Engineer</p>
+            </div>
+            <p class="contact-info">
+                12 Sherif Al-Rifai ST, El-Marg, Cairo, Egypt <br>
+                <a href="mailto:mohamedvolck@gmail.com">mohamedvolck@gmail.com</a> | +20 1070650550
+            </p>
+        </header>
+
+        <main>
+            <section>
+                <h2>Summary</h2>
+                <p>Proactive and detail-oriented Network Engineer with a Bachelor's degree in Computer Science specializing in Network Systems. Skilled in network infrastructure management, system troubleshooting, and data security measures. Known for problem-solving skills, adaptability, and commitment to improving network performance.</p>
+            </section>
+
+            <section>
+                <h2>Education</h2>
+                <p><strong>Bachelor's in Computer Science and Information Systems (Networks Department)</strong> - June 2023</p>
+            </section>
+
+            <section>
+                <h2>Professional Experience</h2>
+                <ul>
+                    <li>
+                        <strong>Network Engineer Trainee - El Sewedy Electric</strong>
+                        <p>Assisted with network configuration, equipment troubleshooting, and system maintenance. Managed network devices and documented configurations and procedures.</p>
+                    </li>
+                    <li>
+                        <strong>Network Engineer Trainee - Bank Misr</strong>
+                        <p>Supported network monitoring and troubleshooting to enhance connectivity and operational efficiency. Collaborated with IT staff to update and maintain secure network connections.</p>
+                    </li>
+                    <li>
+                        <strong>Network Engineer Trainee - Banque Misr, National Bank of Egypt</strong>
+                        <p>Conducted network monitoring and assisted in troubleshooting issues to support bank infrastructure. Ensured secure network connections across branches.</p>
+                    </li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>Certificates</h2>
+                <ul>
+                    <li>Banking Industry Introduction Program - Central Bank of Egypt (2023)</li>
+                    <li>CCNA Certification - Cisco Certified Network Associate (2023)</li>
+                    <li>English Grammar Course - Udemy (2022)</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>Skills</h2>
+                <ul>
+                    <li>Network Infrastructure Management</li>
+                    <li>Troubleshooting and Diagnostics</li>
+                    <li>Security Protocols Implementation</li>
+                    <li>Network Monitoring Tools (Wireshark, SNMP)</li>
+                    <li>Virtual LANs (VLAN) Configuration</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>Personal Projects</h2>
+                <ul>
+                    <li>
+                        <strong>Home Network Setup:</strong> Designed and implemented a secure LAN for a small business, incorporating VLANs and basic firewall settings.
+                    </li>
+                    <li>
+                        <strong>Packet Analysis:</strong> Conducted traffic monitoring and troubleshooting using Wireshark to identify network bottlenecks and enhance performance.
+                    </li>
+                </ul>
+            </section>
+        </main>
+    </div>
+</body>
+</html>
