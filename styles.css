@@ -47,16 +47,15 @@ ul li {
     margin-bottom: 8px;
 }
 
-/* تنسيق المعلومات الشخصية */
+/* الأقسام */
 .section {
     margin-bottom: 30px;
 }
-.section ul {
-    list-style-type: none;
-    padding: 0;
-}
-.section ul li {
-    margin-bottom: 10px;
+
+/* تحسين قسم الخبرة (Experience) */
+.section p, .section ul {
+    font-size: 1.1em;
+    color: #444;
 }
 
 /* الروابط */
